@@ -9,3 +9,5 @@ Another approach is to draw a circle in the sand and throw a pebble over and ove
 
 The estimate of Pi tends to converge faster than when simulating the Buffon approach
 
+
+![Screenshot](/monte_carlo_pi.png)
